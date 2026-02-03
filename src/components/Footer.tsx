@@ -52,7 +52,7 @@ const Footer = () => {
           {/* Lado Inferior: Legal e CNPJ */}
           <div className="space-y-1">
             <p className="text-sm">
-              © {currentYear} Todos os direitos reservados - Chico Mauro.
+              © {currentYear} Todos os direitos reservados - Chico Mauro - SaintSolution SD.
             </p>
             <p className="text-xs text-slate-500">
               Saint Solution é um nome fantasia de CNPJ 64.165.379/0001-72
