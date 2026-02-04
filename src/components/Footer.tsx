@@ -21,7 +21,7 @@ const Footer = () => {
           {/* Centro: Redes Sociais (Agora no Meio) */}
           <div className="flex gap-8">
             <a 
-              href="https://instagram.com/saintsolution" 
+              href="https://instagram.com/saintsolutionsd" 
               target="_blank" 
               rel="noopener noreferrer"
               className="hover:text-amber-500 transition-all duration-300 transform hover:scale-110"
@@ -30,7 +30,7 @@ const Footer = () => {
               <Instagram size={28} />
             </a>
             <a 
-              href="https://facebook.com/saintsolution" 
+              href="https://facebook.com/saintsolutionsd" 
               target="_blank" 
               rel="noopener noreferrer"
               className="hover:text-amber-500 transition-all duration-300 transform hover:scale-110"
@@ -39,7 +39,7 @@ const Footer = () => {
               <Facebook size={28} />
             </a>
             <a 
-              href="https://linkedin.com/in/chicomauro" 
+              href="https://linkedin.com/in/SaintsolutionSD" 
               target="_blank" 
               rel="noopener noreferrer"
               className="hover:text-amber-500 transition-all duration-300 transform hover:scale-110"
